@@ -7,7 +7,7 @@ The privacy market in the web3 actively lacks diversity. Women around the world 
 
 We want to kick off the educational track to bring more women into privacy x the web3: from developers to entrepreneurs. So the industry will be more diverse, open & inclusive. 
 
-Curators: [Ann Brody](https://x.com/annbrody7) and  [Yana Matrosova ](https://x.com/yana_tnfl)
+Curators: [Ann Brody](https://x.com/annbrody7), [Alina Latinina](https://x.com/alinalatinina) and [Yana Matrosova ](https://x.com/yana_tnfl)
 
 ## Execution plan
 
@@ -18,10 +18,10 @@ _goals_: team formations - MVP scoping - online educational event facilitation.
 2. Outreach project curator(s) - female only: DONE
 3. Provide access to female privacy leaders - match with the project team: DOING
 4. Create a Signal working group: DONE
-5. Support with promotion, and events facilitation.
+5. Support with promotion, and events facilitation: DONE
 6. We will make a panel Women x Cypherpunk at the [Ethereum Cypherpunk Congress](http://congress.web3privacy.info), Bangkok: DONE
 
-"10 online lectures rationality" - online-event with 10 female speakers sharing experience working in privacy x web3 will help to build a working group, generate valuable knowledge & foster attention from the bigger community (unlocking grants, help, contributions).
+"10 online lectures rationality" - online-event with 10 female speakers sharing experience working in privacy x web3 will help to build a working group, generate valuable knowledge & foster attention from the bigger community (unlocking grants, help, contributions). IN PROGRESS
 
 **phase 2**: scaling
 _goals_: stable project management - budgeting - academy facilitation (1st cohort) - partnerships.
@@ -33,8 +33,9 @@ _goals_: stable project management - budgeting - academy facilitation (1st cohor
 
 # Bigger vision
 - **Academy**: full course women for women on privacy x web3 linked with grants, vacancies & other opportunities for growth.
-- **Use-cases**: global database of the female-centric use-cases that can be solved by the privacy builders
+- **Use-cases**: global database of the female-centric use-cases that can be solved by the privacy builders.
 - **Partnerships**: SheFi, EF integrations (courses, lectures, research).
-- **Changemaking**: shape HR agenda within privacy x web3 market, unlock more opportunities for women... 
+- **Changemaking**: shape HR agenda within privacy x web3 market.
+- **Scholarships**: providing funds to unlock more opportunities for women, by encouraging them directly.
 
 **Diversity in the privacy x web3 report we made in 23'** [link](https://medium.com/@Svyazniy/diversity-in-the-web3-privacy-market-outlook-1a7ccefc872)
